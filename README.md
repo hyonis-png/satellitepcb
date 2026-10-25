@@ -96,4 +96,5 @@ This project represents the design and verification stage of PCB development.
 
 The schematic and PCB layout were completed, but the board was not manufactured due to the project's development timeline.
 
-Future work would involve reviewing the design for manufacturing, ordering the PCB, assembling the components, and validating sensor communication and measurements.
+Future work would involve reviewing the design for manufacturing, ordering the PCB, assembling the components, and validating sensor communication and measurements.<img width="927" height="462" alt="image" src="https://github.com/user-attachments/assets/88ec3cc9-c28f-40a2-aa38-b6dec2a557f4" />
+<img width="1128" height="577" alt="image" src="https://github.com/user-attachments/assets/7a0d9e11-75dd-4ddb-9a3d-6f35b2907ffe" />
